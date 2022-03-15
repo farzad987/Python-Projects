@@ -10,12 +10,12 @@ Player Awards are bestowed based on popularity of players, which gives biased re
 
 ## Objective: ##
 
-a)	To create a comprehensive database and analyze the top performing teams and players.
-b)	Awarding a new emerging player award using stats and age to boost the confidence of youngsters.
-c)	Statistically displaying Golden Boot Award Candidates and Winner (Top Striker)
-d)	Analyzing best Playmaker of the competition by displaying best midfielder.
-e)	Rightfully awarding the Best Goalkeeper Award by calibrating games and saves, specifically Clean Sheets.
-f)	To Display Stats of a Player when Name is entered. This will ensure faster and easier access of data.
-g)  To statistically check Best Team Award Candidates based on each team’s statistics (goals, clean sheets, bookings etc.)
+a) To create a comprehensive database and analyze the top performing teams and players.
+b) Awarding a new emerging player award using stats and age to boost the confidence of youngsters.
+c) Statistically displaying Golden Boot Award Candidates and Winner (Top Striker)
+d) Analyzing best Playmaker of the competition by displaying best midfielder.
+e) Rightfully awarding the Best Goalkeeper Award by calibrating games and saves, specifically Clean Sheets.
+f) To Display Stats of a Player when Name is entered. This will ensure faster and easier access of data.
+g) To statistically check Best Team Award Candidates based on each team’s statistics (goals, clean sheets, bookings etc.)
 
 ## User Manual ##
